@@ -12,7 +12,7 @@ PPF - Logos und Symbole in eigener Schriftart (V2.0.2)
 - famous
 - firtz
 - hörsuppe
-- metaebene (in Arbeit!)
+- metaebene
 - podlove
 - podbe
 - podcastideen
