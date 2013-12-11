@@ -5,7 +5,7 @@ PPF - Logos und Symbole in eigener Schriftart (V2.0.3)
 
 
 <img src="https://raw.github.com/McCouman/Podcasting-Projects-Fonts/master/Podcast%20Projects/screenshot.png">
-##Projects:
+##Projects
 
 - auphonic
 - bitlove
@@ -17,10 +17,11 @@ PPF - Logos und Symbole in eigener Schriftart (V2.0.3)
 - podbe
 - podcastideen
 - podunion
+- podigee
 - shownotes
 - xenim 
 
-##Lizenz:
+##Lizenz
 <pre>
 The MIT License (MIT)
 
