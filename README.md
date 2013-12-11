@@ -1,7 +1,7 @@
 Podcasting-Projects-Fonts
 =========================
 
-PPF - Logos und Symbole in eigener Schriftart (V2.0.2)
+PPF - Logos und Symbole in eigener Schriftart (V2.0.3)
 
 
 <img src="https://raw.github.com/McCouman/Podcasting-Projects-Fonts/master/Podcast%20Projects/screenshot.png">
